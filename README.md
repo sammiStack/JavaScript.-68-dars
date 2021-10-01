@@ -1,1 +1,1 @@
-# JavaScript.-68-dars
+# 68-dars----qabulmodul
